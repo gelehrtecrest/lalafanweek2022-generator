@@ -149,7 +149,7 @@
 		var imageIni = {
 			xPos : 2,
 			yPos : 2,
-			Scale : -33,
+			Scale : -5,
 			rotation : 0,
 			alpha : 1.0,
 			imageData : null,
